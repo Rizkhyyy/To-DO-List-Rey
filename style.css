@@ -1,0 +1,24 @@
+body {
+   background-color: dodgerblue;
+}
+.container {
+    border: 2px solid white;
+    border-radius: 15px;
+    width: 520px;
+    align-content: center;
+    margin-top: 50px;
+}
+h1 {
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+}
+.button {
+    color: cornflowerblue;
+}
+thead {
+    color: #fff;
+}
+tr {
+    color: #fff;
+}
